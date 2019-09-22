@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_with_comments
 title:  "Fast Sample Efficient Q-Learning With Recurrent IQN"
 author: Opher Lieber
 date:   2019-09-22 11:04:58 +0300
