@@ -37,7 +37,7 @@ Following table compares the acting and training complexity of some existing alg
 |Total Steps Trained|~10B|400M|200M|
 |Total Batches Trained|2M|12.5M|312K|
 |Training Batch Size|5120|32|640|
-|Training Time (Atari)|12H/5D|~7-10D|~18H<sup>1</sup>|
+|Training Time (Atari)|5D|~7-10D|~18H<sup>1</sup>|
 
 <sup>1 Using a single machine with a dedicated P100 or 1080ti GPU and 8+ CPUs</sup>
 
